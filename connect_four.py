@@ -173,3 +173,5 @@ class ConnectFour:
 # Play the game
 connectFour = ConnectFour()
 connectFour.play()
+
+print(5+5)
